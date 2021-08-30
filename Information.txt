@@ -1,0 +1,13 @@
+YouTube Video:
+https://youtu.be/lHonHYdFCOY
+
+
+Objectives 
+-Import and initialize Pygame library
+-set up your display window
+-set up a game loop
+-scan and handle events
+-fill the window with a color
+-draw a circle
+-update the display window
+-exit pygame
